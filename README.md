@@ -1,8 +1,6 @@
 🖇 [Linkedin](https://www.linkedin.com/in/krishpatel13/)
 
-# 🏠 Personal Website
-
-👋🏻 Hi, my name is Krish Patel!
+# 👋🏻 Hi, my name is Krish Patel!
 
 📚 Pursuing an Honours Bachelor of Science with a specialization in Computer Science, with a Minor in Mathematics from the University of Toronto.
 
