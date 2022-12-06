@@ -4,7 +4,7 @@
 
 📚 Pursuing an Honours Bachelor of Science with a specialization in Computer Science, with a Minor in Mathematics from the University of Toronto.
 
-💼 Currently working at UofT as a CS Teaching Assistant. Previously worked as a Mobile Application Developer at Dots and Coms, a Workshop/Technical Lead at my university’s Google Developer Student Club, and a Research Assistant at the Schulich School of Business.
+💼 Currently working at UofT as a CS Teaching Assistant. Previously worked as a Mobile Application Developer at Dots and Coms, a Workshop/Technical Lead at my university’s Google Developer Student Club.
 
 😎 Enrolled in the PEY Co-op program at the University of Toronto, currently seeking a 4 month co-op/internship (with a start date of May 2023).
 
