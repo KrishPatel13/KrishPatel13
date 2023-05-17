@@ -14,8 +14,3 @@ Skills:
 Node.js, Express, MIPS Assembly, Django REST Framework, Python’s Pandas Library, HTML, CSS.
 
 ☁️ Cloud/OS/Tools: AWS, Google Cloud, Linux/Unix, Docker, Firebase, Git/GitHub, GitHub Actions, Travis CI, Jira. 
-
-
-
-🌎 Languages: English (Fluent), Hindi (Fluent), Gujarati (Fluent), Sanskrit (Basic)
-
