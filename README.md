@@ -6,7 +6,7 @@
 
 💼 Currently working at UofT as a CS Teaching Assistant. Previously worked as Machine Learning Engineer Intern at @MLDSAI Inc. and also as a Mobile Application Developer at Dots and Coms, a Workshop/Technical Lead at my university’s Google Developer Student Club.
 
-😎 Enrolled in the PEY Co-op program at the University of Toronto, currently seeking a 12-16 month co-op/internship (with a start date of May 2024).
+😎 Enrolled in the PEY Co-op program at the University of Toronto, currently seeking a 12-16 month co-op/internship (From May 2024 - August 31 2025 [12 or 16 months]).
 
 Skills:
 
