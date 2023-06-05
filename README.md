@@ -11,7 +11,7 @@
 Skills:
 
 💻 Programming Languages/Frameworks/Libraries: C, C++, Python, Java, SQL, PostgreSQL, React, Redux, JavaScript,
-Node.js, Express, MIPS Assembly, Django REST Framework, Python’s Pandas Library, HTML, CSS.
+Node.js, Express, RISC-V Assembly, Django REST Framework, Python’s Pandas Library, HTML, CSS.
 
 ☁️ Cloud/OS/Tools: AWS, Google Cloud, Linux/Unix, Docker, Firebase, Git/GitHub, GitHub Actions, Travis CI, Jira. 
 
