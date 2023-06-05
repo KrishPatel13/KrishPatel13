@@ -14,3 +14,10 @@ Skills:
 Node.js, Express, MIPS Assembly, Django REST Framework, Python’s Pandas Library, HTML, CSS.
 
 ☁️ Cloud/OS/Tools: AWS, Google Cloud, Linux/Unix, Docker, Firebase, Git/GitHub, GitHub Actions, Travis CI, Jira. 
+
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/krishpatel13/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
