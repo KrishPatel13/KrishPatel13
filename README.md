@@ -1,20 +1,6 @@
 🖇 [Linkedin](https://www.linkedin.com/in/krishpatel13/)
 
-# 👋🏻 Hi, my name is Krish Patel!
-
-📚 Pursuing an Honours Bachelor of Science with a specialization in Computer Science, with a Minor in Mathematics from the University of Toronto.
-
-💼 Currently working at UofT as a CS Teaching Assistant. Previously worked as Machine Learning Engineer Intern at @MLDSAI Inc. and also as a Mobile Application Developer at Dots and Coms, a Workshop/Technical Lead at my university’s Google Developer Student Club.
-
-😎 Enrolled in the PEY Co-op program at the University of Toronto, currently seeking a 12-16 month co-op/internship (From May 2024 - August 31 2025 [12 or 16 months]).
-
-Skills:
-
-💻 Programming Languages/Frameworks/Libraries: C, C++, Python, Java, SQL, PostgreSQL, React, Redux, JavaScript,
-Node.js, Express, RISC-V Assembly, Django REST Framework, Python’s Pandas Library, HTML, CSS.
-
-☁️ Cloud/OS/Tools: AWS, Google Cloud, Linux/Unix, Docker, Firebase, Git/GitHub, GitHub Actions, Travis CI, Jira. 
-
+# 👋🏻 Hi, my name is Krish Patel !
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/krishpatel13/">
@@ -24,6 +10,20 @@ Node.js, Express, RISC-V Assembly, Django REST Framework, Python’s Pandas Libr
 
 ![](https://komarev.com/ghpvc/?username=KrishPatel13&color=green)
 
+📚 Pursuing an Honours Bachelor of Science with a specialization in Computer Science, with a Minor in Mathematics from the University of Toronto.
+
+💼 Currently working at UofT as a CS Teaching Assistant. Previously worked as Machine Learning Engineer Intern at @MLDSAI Inc. and also as a Mobile Application Developer at Dots and Coms, a Workshop/Technical Lead at my university’s Google Developer Student Club.
+
+😎 Enrolled in the PEY Co-op program at the University of Toronto, currently seeking a 12-16 month co-op/internship (From May 2024 - August 31 2025 [12 or 16 months]).
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KrishPatel13&theme=dark&border_radius=25&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
+
+Skills:
+
+💻 Programming Languages/Frameworks/Libraries: C, C++, Python, Java, SQL, PostgreSQL, React, Redux, JavaScript,
+Node.js, Express, RISC-V Assembly, Django REST Framework, Python’s Pandas Library, HTML, CSS.
+
+☁️ Cloud/OS/Tools: AWS, Google Cloud, Linux/Unix, Docker, Firebase, Git/GitHub, GitHub Actions, Travis CI, Jira. 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -44,4 +44,4 @@ Node.js, Express, RISC-V Assembly, Django REST Framework, Python’s Pandas Libr
 </div>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KrishPatel13&theme=dark&border_radius=25&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
+
