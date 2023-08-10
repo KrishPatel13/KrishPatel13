@@ -14,7 +14,7 @@
 
 💼 Currently working at UofT as a CS Teaching Assistant. Previously worked as Machine Learning Engineer Intern at @MLDSAI Inc. and also as a Mobile Application Developer at Dots and Coms, a Workshop/Technical Lead at my university’s Google Developer Student Club.
 
-😎 Enrolled in the PEY Co-op program at the University of Toronto, currently seeking a 12-16 month co-op/internship (From May 2024 - August 31 2025 [12 or 16 months]).
+😎 Enrolled in the PEY Co-op program at the University of Toronto, currently seeking a 4-8-12-16 month co-op/internship (between May 2024 - August 31 2025).
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KrishPatel13&theme=dark&border_radius=25&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
