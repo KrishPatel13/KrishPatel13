@@ -12,7 +12,7 @@
 
 📚 Pursuing an Honours Bachelor of Science with a specialization in Computer Science, with a Minor in Mathematics from the University of Toronto.
 
-💼 Currently working at Huawei Canada as SWE and UofT as a CS Teaching Assistant. Previously worked as Machine Learning Engineer Intern at @MLDSAI Inc. and also as a Mobile Application Developer at Dots and Coms, a Workshop/Technical Lead at my university’s Google Developer Student Club.
+💼 Currently working at @Huawei Canada Inc. as a Software Engineer and UofT as a CS Teaching Assistant. Previously worked as Machine Learning Engineer Intern at @MLDSAI Inc. and also as a Mobile Application Developer at Dots and Coms, a Workshop/Technical Lead at my university’s Google Developer Student Club.
 
 😎 
 
