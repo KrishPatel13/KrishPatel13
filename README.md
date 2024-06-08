@@ -23,7 +23,7 @@ Skills:
 💻 Programming Languages/Frameworks/Libraries: C, C++, Python, Java, SQL, PostgreSQL, React, Redux, JavaScript,
 Node.js, Express, RISC-V Assembly, Django REST Framework, Python’s Pandas Library, HTML, CSS.
 
-☁️ Cloud/OS/Tools: AWS, Google Cloud, Linux/Unix, Docker, Firebase, Git/GitHub, GitHub Actions, Travis CI, Jira. 
+☁️ Cloud/OS/Tools: AWS, Google Cloud, Linux/Unix, Docker, Firebase, Git/GitHub, GitHub Actions, Travis CI, Jira, Linux/Unix System, Jenkins, Azue AI tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
