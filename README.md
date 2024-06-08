@@ -12,7 +12,7 @@
 
 📚 Pursuing an Honours Bachelor of Science with a specialization in Computer Science, with a Minor in Mathematics from the University of Toronto.
 
-💼 Currently working at UofT as a CS Teaching Assistant. Previously worked as Machine Learning Engineer Intern at @MLDSAI Inc. and also as a Mobile Application Developer at Dots and Coms, a Workshop/Technical Lead at my university’s Google Developer Student Club.
+💼 Currently working at Huawei Canada as SWE and UofT as a CS Teaching Assistant. Previously worked as Machine Learning Engineer Intern at @MLDSAI Inc. and also as a Mobile Application Developer at Dots and Coms, a Workshop/Technical Lead at my university’s Google Developer Student Club.
 
 😎 Enrolled in the PEY Co-op program at the University of Toronto, currently seeking a 4-8-12-16 month co-op/internship (between May 2024 - August 31 2025).
 
