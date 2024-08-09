@@ -1,24 +1,38 @@
-🖇 [Linkedin](https://www.linkedin.com/in/krishpatel13/)
+<h1 align="center">
+  Hey There
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  I am Krish Patel!
+</h1>
 
-# 👋🏻 Hi, my name is Krish Patel!
 
-<div id="badges">
+<div align="center" id="badges">
   <a href="https://www.linkedin.com/in/krishpatel13/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.instagram.com/krishpatel.13/">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://x.com/krish13patel">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://github.com/KrishPatel13/">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://krishpatel.info">
+    <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
+  </a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=KrishPatel13&color=green)
 
-📚 Pursuing an Honours Bachelor of Science with a specialization in Computer Science, with a Minor in Mathematics from the University of Toronto.
+---
+### :man_technologist: About Me :
 
-💼 Currently working at @Huawei Canada Inc. as a Software Engineer and UofT as a CS Teaching Assistant. Previously worked as Machine Learning Engineer Intern at @MLDSAI Inc. and also as a SWE Intern - Android at Dots and Coms.
+- 📚 Pursuing an Honours Bachelor of Science with a specialization in Computer Science, with a Minor in Mathematics from the University of Toronto.
+- 💼 Currently working at @Huawei Canada Inc. as a Software Engineer and UofT as a CS Teaching Assistant. Previously worked as Machine Learning Engineer Intern at @MLDSAI Inc. and also as a SWE Intern - Android at Dots and Coms.
 
+---
 
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KrishPatel13&theme=dark&border_radius=25&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats) -->
-
-
-## My TechStack:
+## My TechStack <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"/> :
 
 ### Programming Languages:
 <div>
@@ -86,4 +100,4 @@
 - **Linux, Unix, Windows, macOS, Android, CentOS**
 
 
-<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishPatel13&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=KrishPatel13&theme=github-dark&border_radius=13&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=100&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
