@@ -1,9 +1,10 @@
 
-<div align="center">
-  <img src="./typing_krish+patel_intro.gif"
+<div  align="center">
+  <img src="./typing_krish_patel_intro.gif" />
 </div>
 
-<div align="center" id="badges">
+Follow/Connect me:
+<div align="left" id="badges">
   <a href="https://www.linkedin.com/in/krishpatel13/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -23,7 +24,7 @@
 
 
 ---
-### :man_technologist: About Me :
+## :man_technologist: About Me :
 
 - 📚 Pursuing an Honours Bachelor of Science with a specialization in Computer Science, with a Minor in Mathematics from the University of Toronto.
 - 💼 Currently working at @Huawei Canada Inc. as a Software Engineer and UofT as a CS Teaching Assistant. Previously worked as Machine Learning Engineer Intern at @MLDSAI Inc. and also as a SWE Intern - Android at Dots and Coms.
@@ -97,5 +98,4 @@
 ### OS
 - **Linux, Unix, Windows, macOS, Android, CentOS**
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=KrishPatel13&theme=github-dark&border_radius=13&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=100&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+---
