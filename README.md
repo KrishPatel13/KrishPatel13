@@ -29,8 +29,11 @@ Follow/Connect me:
 ---
 ## :man_technologist: About Me :
 
-- 📚 Pursuing an Honours Bachelor of Science with a specialization in Computer Science, with a Minor in Mathematics from the University of Toronto.
-- 💼 Currently working at @Huawei Canada Inc. as a Software Engineer and UofT as a CS Teaching Assistant. Previously worked as Machine Learning Engineer Intern at @MLDSAI Inc. and also as a SWE Intern - Android at Dots and Coms.
+- 🎓 MMath (thesis) student in Computer Science at the **University of Waterloo**, supervised by **Professor David Toman** in the Data Systems Group at the David R. Cheriton School of Computer Science.
+- 🔎 My research is on query planning and optimization: how database systems turn declarative queries into efficient execution plans, and how A\* search can make that process better. More on my [academic page](https://cs.uwaterloo.ca/~k587pate/).
+- 💼 Software Engineer at **@Huawei** Canada, Distributed Data Storage & Management (DDSM) Lab in Markham. Previously a Machine Learning Engineer Intern at @MLDSAI Inc. and an Android SWE Intern at Dots and Coms.
+- 🧑‍🏫 Graduate Teaching Assistant at Waterloo (CS 115). Previously a TA at the University of Toronto Mississauga for nine computer science and mathematics courses.
+- 📚 Honours Bachelor of Science with High Distinction, **University of Toronto Mississauga** (2025): Specialist in Computer Science, Minor in Mathematical Sciences.
 
 ---
 
