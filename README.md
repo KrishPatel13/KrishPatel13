@@ -15,7 +15,7 @@ Follow/Connect me:
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   <a href="https://krishpatel.info">
-    <img src="https://img.shields.io/badge/My%20Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="My Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/My%20Portfolio-000000?style=for-the-badge" alt="My Portfolio Badge"/>
   </a>
   <a href="https://cs.uwaterloo.ca/~k587pate/">
     <img src="https://img.shields.io/badge/Academic%20Page-FED34C?style=for-the-badge&logo=googlescholar&logoColor=black" alt="Academic Homepage Badge"/>
