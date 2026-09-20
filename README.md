@@ -11,17 +11,17 @@ Follow/Connect me:
   <a href="https://www.instagram.com/krishpatel.13/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://x.com/krish13patel">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
   <a href="https://github.com/KrishPatel13/">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   <a href="https://krishpatel.info">
-    <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/My%20Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="My Portfolio Badge"/>
   </a>
   <a href="https://cs.uwaterloo.ca/~k587pate/">
     <img src="https://img.shields.io/badge/Academic%20Page-FED34C?style=for-the-badge&logo=googlescholar&logoColor=black" alt="Academic Homepage Badge"/>
+  </a>
+  <a href="https://orcid.org/0009-0006-3064-0086">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Badge"/>
   </a>
 </div>
 
