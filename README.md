@@ -20,6 +20,9 @@ Follow/Connect me:
   <a href="https://cs.uwaterloo.ca/~k587pate/">
     <img src="https://img.shields.io/badge/Academic%20Page-FED34C?style=for-the-badge&logo=googlescholar&logoColor=black" alt="Academic Homepage Badge"/>
   </a>
+  <a href="https://uwaterloo.ca/data-systems-group/contacts/krish-patel">
+    <img src="https://img.shields.io/badge/Data%20Systems%20Group-000000?style=for-the-badge" alt="Data Systems Group Profile Badge"/>
+  </a>
   <a href="https://orcid.org/0009-0006-3064-0086">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Badge"/>
   </a>
@@ -29,14 +32,23 @@ Follow/Connect me:
 ---
 ## :man_technologist: About Me :
 
-- 🎓 MMath (thesis) student in Computer Science at the **University of Waterloo**, supervised by **Professor David Toman** in the Data Systems Group at the David R. Cheriton School of Computer Science.
-- 🔎 My research is on query planning and optimization: how database systems turn declarative queries into efficient execution plans, and how A\* search can make that process better. More on my [academic page](https://cs.uwaterloo.ca/~k587pate/).
+- 🎓 MSc (thesis) student in Computer Science at the **University of Waterloo**, supervised by **Professor David Toman** in the Data Systems Group at the David R. Cheriton School of Computer Science.
+- 🔎 My research is on query planning and optimization: how database systems turn declarative queries into efficient execution plans, and how A\* search can make that process better. I have also studied how learned cost models can be adapted to new hardware. More on my [academic page](https://cs.uwaterloo.ca/~k587pate/).
 - 💼 Software Engineer at **@Huawei** Canada, Distributed Data Storage & Management (DDSM) Lab in Markham. Previously a Machine Learning Engineer Intern at @MLDSAI Inc. and an Android SWE Intern at Dots and Coms.
 - 🧑‍🏫 Graduate Teaching Assistant at Waterloo (CS 115). Previously a TA at the University of Toronto Mississauga for nine computer science and mathematics courses.
 - 📚 Honours Bachelor of Science with High Distinction, **University of Toronto Mississauga** (2025): Specialist in Computer Science, Minor in Mathematical Sciences.
 ---
 
-## Writing
+## Research and writing
+
+**[When Is One Query per Template Enough? Adapting Learned Cost Models to New Hardware](https://cs.uwaterloo.ca/~k587pate/notes/learned-cost-models-new-hardware.html)**<br>
+Manuscript, 2026. How few queries measured on a new machine are enough to adapt a learned
+PostgreSQL cost model, from 1,162 TPC-H and TPC-DS queries timed in six environments.
+[Code and data](https://github.com/KrishPatel13/query-runtime-transfer).
+
+**[Column stores: from C-Store to modern analytical databases](https://cs.uwaterloo.ca/~k587pate/notes/column-stores-c-store.html)**<br>
+A CS 848 talk on C-Store and the two Abadi papers: which execution features explain the
+speedups, and what Vertica, Snowflake, DuckDB and ClickHouse kept.
 
 **[Scaling laws for neural language models](https://cs.uwaterloo.ca/~k587pate/notes/scaling-laws-kaplan.html)**<br>
 A talk on Kaplan et al. (2020): the fitted power laws, the batch-size correction the
