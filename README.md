@@ -26,6 +26,12 @@ Follow/Connect me:
   <a href="https://orcid.org/0009-0006-3064-0086">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Badge"/>
   </a>
+  <a href="https://scholar.google.com/citations?user=iF0LDykAAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar Badge"/>
+  </a>
+  <a href="https://www.semanticscholar.org/author/2526711879">
+    <img src="https://img.shields.io/badge/Semantic%20Scholar-1857B6?style=for-the-badge&logo=semanticscholar&logoColor=white" alt="Semantic Scholar Badge"/>
+  </a>
 </div>
 
 
@@ -41,10 +47,11 @@ Follow/Connect me:
 
 ## Research and writing
 
-**[When Is One Query per Template Enough? Adapting Learned Cost Models to New Hardware](https://cs.uwaterloo.ca/~k587pate/notes/learned-cost-models-new-hardware.html)**<br>
-Manuscript, 2026. How few queries measured on a new machine are enough to adapt a learned
+**[When Is One Query per Template Enough? Adapting Learned Cost Models to New Hardware](https://arxiv.org/abs/2611.05892)**<br>
+Preprint, arXiv:2611.05892 (2026). How few queries measured on a new machine are enough to adapt a learned
 PostgreSQL cost model, from 1,162 TPC-H and TPC-DS queries timed in six environments.
-[Code and data](https://github.com/KrishPatel13/query-runtime-transfer).
+[Code and data](https://github.com/KrishPatel13/query-runtime-transfer) ·
+[Write-up](https://cs.uwaterloo.ca/~k587pate/notes/learned-cost-models-new-hardware.html).
 
 **[Column stores: from C-Store to modern analytical databases](https://cs.uwaterloo.ca/~k587pate/notes/column-stores-c-store.html)**<br>
 A CS 848 talk on C-Store and the two Abadi papers: which execution features explain the
