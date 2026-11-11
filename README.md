@@ -29,7 +29,7 @@ Follow/Connect me:
   <a href="https://scholar.google.com/citations?user=iF0LDykAAAAJ">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar Badge"/>
   </a>
-  <a href="https://www.semanticscholar.org/author/2526711879">
+  <a href="https://www.semanticscholar.org/author/Krish-Patel/2526711879">
     <img src="https://img.shields.io/badge/Semantic%20Scholar-1857B6?style=for-the-badge&logo=semanticscholar&logoColor=white" alt="Semantic Scholar Badge"/>
   </a>
 </div>
